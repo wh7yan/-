@@ -1,6 +1,6 @@
 # **线性回归**
 
-在线性回归模型中，模型是根据一个**标量因变量$y$** 和一个或者多个**预测自变量$x$** 来确定的。
+在线性回归模型中，模型是根据一个**标量因变量<a href="http://www.codecogs.com/eqnedit.php?latex=$y$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$y$" title="$y$" /></a>** 和一个或者多个**预测自变量<a href="http://www.codecogs.com/eqnedit.php?latex=$x$" target="_blank"><img src="http://latex.codecogs.com/gif.latex?$x$" title="$x$" /></a>** 来确定的。
 
 
 **给出一些符号:**
