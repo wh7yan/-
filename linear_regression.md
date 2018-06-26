@@ -1,5 +1,9 @@
 # **线性回归**
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+$$a$$
+
 在线性回归模型中，模型是根据一个**标量因变量$y$** 和一个或者多个**预测自变量$x$** 来确定的。
 
 
