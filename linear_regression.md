@@ -165,7 +165,7 @@ Cost at iteration 300: 1.2042189195356685
 Cost at iteration 400: 1.1564867816573  
 Cost at iteration 500: 1.121391041394467  
 ![](Figure_2.png)
-#测试数据进行测试(梯度下降法)
+# 测试数据进行测试(梯度下降法)
 
     n_samples, _ = X_train.shape
     n_samples_test, _ = X_test.shape
@@ -189,7 +189,7 @@ Error on test set: 1.0
     reg_normal = LinearRegression()
     w_trained = reg_normal.train_normal_equation(X_b_train, y_train)
 
-# 测试(法方程)
+# 测试数据进行测试(法方程)
     y_p_train = reg_normal.predict(X_b_train)
     y_p_test = reg_normal.predict(X_b_test)
 
